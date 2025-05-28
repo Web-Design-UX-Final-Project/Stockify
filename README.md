@@ -1,19 +1,34 @@
+# Stockify
 
-Bootstrap components
+**Stockify** is a web-based stock market simulation platform developed as the final project for a Web Design & UX course. It allows users to experience stock trading in a risk-free environment, providing real-time data and an intuitive user interface to enhance financial literacy and decision-making skills.
 
-1. Navbar (<nav class="navbar navbar-expand-lg navbar-light bg-light">) - for the navigation bar at the top.
-2. Navbar Brand (<a class="navbar-brand" href="#">) - for the brand/logo in the navbar.
-3. Navbar Toggler (<button class="navbar-toggler" ...>) - for the toggle button in collapsed navbar.
-4. Collapse (<div class="collapse navbar-collapse" ...>) - for collapsible navbar content.
-5. Nav Item (<li class="nav-item">) - for each item in the navbar menu.
-6. Jumbotron (<div class="jumbotron jumbotron-fluid">) - for the large introductory content.
-7. Card (<div class="card">) - for displaying content cards.
-8. Card Header (<div class="card-header">) - for card headers.
-9. Card Body (<div class="card-body">) - for card bodies.
-10. Image (<img src="..." class="img-fluid" alt="...">) - for responsive images.
-11. Container (<div class="container">) - for creating a responsive fixed-width container.
-12. Row (<div class="row">) - for arranging columns horizontally.
-13. Column (<div class="col-12">, <div class="col-md-4">, etc.) - for defining the layout grid.
-14. Text Alignment (<h1 class="display-4">, <p class="lead">, etc.) - for styling text alignment.
-15. List Unstyled (<ul class="list-unstyled">) - for unordered lists without any styles.
-16. Footer (<footer class="footer bg-dark text-white pt-4 pb-2">) - for the footer section.
+---
+
+## 🚀 Features
+
+- **User Authentication**: Secure sign-up and login functionalities to personalize user experience.
+- **Real-Time Stock Data**: Integration with stock market APIs to fetch and display up-to-date stock information.
+- **Virtual Trading**: Simulate buying and selling of stocks with virtual currency to practice trading strategies.
+- **Portfolio Management**: Track and manage virtual investment portfolios with performance analytics.
+- **Responsive Design**: Optimized for various devices to ensure accessibility and usability.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **APIs**: [IEX Cloud](https://iexcloud.io/) for stock market data
+- **Version Control**: Git and GitHub
+
+---
+
+## 🧩 Installation
+
+Follow the steps below to set up the project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Web-Design-UX-Final-Project/Stockify.git
+
